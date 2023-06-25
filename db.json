@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "name": "a",
+      "password": "Aa@123456789",
+      "email": "a@admin.com",
+      "gender": "male",
+      "role": "staff",
+      "isActive": true
+    },
+    {
+      "id": "user2",
+      "name": "b",
+      "password": "Aa@123456789",
+      "email": "b@admin.com",
+      "gender": "male",
+      "role": "staff",
+      "isActive": false
+    },
+    {
+      "id": "user3",
+      "name": "c",
+      "password": "Aa@123456789",
+      "email": "c@admin.com",
+      "gender": "male",
+      "role": "quality",
+      "isActive": false
+    },
+    {
+      "id": "user4",
+      "name": "d",
+      "password": "Aa@123456789",
+      "email": "d@admin.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": false
+    },
+    {
+      "id": "user5",
+      "name": "5",
+      "password": "Aa@123456789",
+      "email": "5@admin.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "Aa@123456789",
+      "email": "admin@admin.com",
+      "gender": "male",
+      "role": "admin",
+      "isActive": true
+    }
+  ],
+  "role": [
+    {
+      "id": "staff",
+      "name": "Staff"
+    },
+    {
+      "id": "quality",
+      "name": "Quality"
+    }
+  ]
+}
